@@ -2,8 +2,10 @@ forge 'forge.puppetlabs.com'
 
 # Standard modules
 mod 'camptocamp-systemd', '2.10.0'
+mod 'puppetlabs-apt', '7.6.0'
 mod 'puppetlabs-concat', '6.2.0'
 mod 'puppetlabs-inifile', '4.3.0'
+mod 'puppetlabs-postgresql', '6.8.0'
 mod 'puppetlabs-stdlib', '6.4.0'
 mod 'puppetlabs-translate', '2.2.0'
 mod 'saz-timezone', '6.0.0'
