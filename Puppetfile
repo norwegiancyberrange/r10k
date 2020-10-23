@@ -2,6 +2,7 @@ forge 'forge.puppetlabs.com'
 
 # Standard modules
 mod 'camptocamp-systemd', '2.10.0'
+mod 'inkblot-ipcalc', '2.2.0'
 mod 'puppetlabs-apt', '7.6.0'
 mod 'puppetlabs-concat', '6.2.0'
 mod 'puppetlabs-inifile', '4.3.0'
